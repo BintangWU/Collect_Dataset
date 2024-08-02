@@ -155,3 +155,4 @@ if __name__ == "__main__":
     interval = input("Interval Collection: ")
 
     main(source, int(interval))
+    print("OK")
